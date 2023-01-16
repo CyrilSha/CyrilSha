@@ -1,4 +1,5 @@
 ### Hi there 👋
+![terminal](https://user-images.githubusercontent.com/15785609/212780186-87d8ebc9-1e48-4550-b6b4-3ae52d2c24c4.gif)
 
 <!--
 **CyrilSha/CyrilSha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
