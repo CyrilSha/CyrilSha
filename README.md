@@ -1,5 +1,5 @@
-![gifntext-gif](https://user-images.githubusercontent.com/15785609/212781917-4afbca50-1d8d-48e7-804e-19c275bb0fff.gif)
-
+-![gifntext-gif](https://user-images.githubusercontent.com/15785609/212781917-4afbca50-1d8d-48e7-804e-19c275bb0fff.gif)
+<img src="https://user-images.githubusercontent.com/15785609/212781917-4afbca50-1d8d-48e7-804e-19c275bb0fff.gif" width="100" height="100">
 <!--
 **CyrilSha/CyrilSha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
