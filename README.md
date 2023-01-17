@@ -3,7 +3,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/15785609/212919947-9b699845-25aa-42b3-9420-33d8cd48c661.png" width="100%" height="100%"> 
+<img src="https://user-images.githubusercontent.com/15785609/212919947-9b699845-25aa-42b3-9420-33d8cd48c661.png" width="30%" height="30%"> 
 
 
 Are you looking for a reliable information security engineer with a decade of experience? Look no further! 
