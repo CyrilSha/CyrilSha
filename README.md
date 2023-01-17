@@ -4,14 +4,23 @@
 Are you looking for a reliable information security engineer with a decade of experience? Look no further! I specialize in making web products secure, writing security tools, integrating them into infrastructure, and scraping, parsing, and analyzing data. I have compiled a list of my top 10 projects that I would be delighted to share with you. Check them out and see what I can do!
 
 0: {Placeholder}
+
 1: {Placeholder}
+
 2: {Placeholder}
+
 3: {Placeholder}
+
 4: {Placeholder}
+
 5: {Placeholder}
+
 6: {Placeholder}
+
 7: {Placeholder}
+
 8: {Placeholder}
+
 9: {Placeholder}
 
 
