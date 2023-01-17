@@ -65,7 +65,7 @@ I specialize in making web products secure, writing security tools, integrating 
 </details>  
 
 <p align="center">
-Definitely, this GitHub page isn't just security related. You can find some front-end stuff and game development projects here, since I'm really into hiking and rolling for initiative.
+Definitely, this GitHub page isn't just security related. You can find some front-end stuff and game development projects here, since I'm really into rolling for initiative and hiking.
 </p>
 
 <p align="center">
