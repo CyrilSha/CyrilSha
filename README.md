@@ -1,4 +1,7 @@
-<!-- <img src="https://user-images.githubusercontent.com/15785609/212781917-4afbca50-1d8d-48e7-804e-19c275bb0fff.gif" width="100%" height="100%"> -->
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/15785609/212781917-4afbca50-1d8d-48e7-804e-19c275bb0fff.gif">
+</p>
 
 <p align="center">
 <img width="15%" height="15%" src="https://user-images.githubusercontent.com/15785609/212919947-9b699845-25aa-42b3-9420-33d8cd48c661.png">
