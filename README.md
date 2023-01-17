@@ -62,4 +62,16 @@ I specialize in making web products secure, writing security tools, integrating 
 <details>
   <summary> 9: {Placeholder} </summary>
     {Placeholder}
-</details>   
+</details>  
+
+<p align="center">
+Definitely, this GitHub page isn't just security related. You can find some front-end stuff and game development projects here, since I'm really into hiking and rolling for initiative.
+</p>
+
+<p align="center">
+<b>See you on the hiking trails!</b>
+</p>
+
+<p align="center">
+<img width="15%" height="15%" src="https://user-images.githubusercontent.com/15785609/212934163-234819b0-a67e-42dd-8f59-f5f1bd16203b.png">
+</p>
