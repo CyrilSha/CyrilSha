@@ -12,7 +12,7 @@
 <b>Are you looking for a reliable information security engineer with a decade of experience? Look no further!</b>
 </p>
 
-<p align="center">
+<p align="">
 I specialize in making web products secure, writing security tools, integrating them into infrastructure, and scraping, parsing, and analyzing data. I have compiled a list of my top 10 projects that I would be delighted to share with you. Check them out and see what I can do!
 </p>
 
@@ -66,7 +66,7 @@ I specialize in making web products secure, writing security tools, integrating 
     {Placeholder}
 </details>  
 
-<p align="center">
+<p align="">
 Definitely, this GitHub page isn't just security related. You can find some front-end stuff and game development projects here, since I'm really into rolling for initiative and hiking.
 </p>
 
