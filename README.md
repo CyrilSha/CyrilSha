@@ -15,8 +15,8 @@ I specialize in making web products secure, writing security tools, integrating 
 </p>
 
 <details>
-  <summary> 0: {Placeholder} </summary>
-    {Placeholder}
+  <summary> Actuator Discovery Tool </summary>
+    Security tool written in Python which allows to discover Actuator Spring Boot endpoints.
 </details>   
 
 <details>
