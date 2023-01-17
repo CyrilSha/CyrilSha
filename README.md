@@ -3,7 +3,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/15785609/212919947-9b699845-25aa-42b3-9420-33d8cd48c661.png" width="25%" height="25%" style="vertical-align:middle"> 
+<center><img src="https://user-images.githubusercontent.com/15785609/212919947-9b699845-25aa-42b3-9420-33d8cd48c661.png" width="25%" height="25%"></center>
 
 
 Are you looking for a reliable information security engineer with a decade of experience? Look no further! 
@@ -28,22 +28,3 @@ I specialize in making web products secure, writing security tools, integrating 
 8: {Placeholder}
 
 9: {Placeholder}
-
-
-
-
-
-<!--
-**CyrilSha/CyrilSha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
