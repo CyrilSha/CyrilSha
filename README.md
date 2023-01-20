@@ -9,8 +9,9 @@ I specialize in making web products secure and successfully identified and mitig
 <br>
 <br>
 <br>
-<p align="center">
-I have fun when I'm writing security tools, integrating them into infrastructure, and scraping, parsing, and analyzing data. I have compiled a list of my top 10 projects that I would be delighted to share with you. Check them out and see what I can do!
+
+## About me
+I'm an Information Security Specialist with 10 years of experience in making web products secure, and I enjoy writing security tools, integrating them into infrastructure, and scraping, parsing, and analyzing data. I have compiled a list of my top 10 projects that I would be delighted to share with you. Please take a look and see what I can do!
 <br>
 <br>
 </p>
@@ -64,6 +65,7 @@ I have fun when I'm writing security tools, integrating them into infrastructure
     {Placeholder}
 </details>  
 <br>
+
 <p align="center">
 Definitely, this GitHub page isn't just security related. You can find some front-end stuff and game development projects here, since I'm really into rolling for initiative and hiking.
 </p>
