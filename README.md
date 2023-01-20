@@ -4,7 +4,7 @@
 ###  <h4><p align="center">  Are you looking for a reliable information security engineer with a decade of experience? Look no further!</p></h4>
 ##
 <p align="center">
-I specialize in making web products secure and successfully identified and mitigated security risks in various projects.
+I specialize in making web products secure and successfully mitigated security risks in various projects.
 </p>
 <br>
 <br>
