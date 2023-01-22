@@ -1,12 +1,11 @@
 
-<img align="left" width="15%" height="15%" src="https://user-images.githubusercontent.com/15785609/212919947-9b699845-25aa-42b3-9420-33d8cd48c661.png">
+<!-- <img align="left" width="15%" height="15%" src="https://user-images.githubusercontent.com/15785609/212919947-9b699845-25aa-42b3-9420-33d8cd48c661.png"> -->
 
 ###  <h4><p align="center">  Are you looking for a reliable information security engineer with a decade of experience? Look no further!</p></h4>
 ##
 <p align="center">
 I specialize in making web products secure and successfully mitigated security risks in various projects.
 </p>
-<br>
 <br>
 <br>
 
