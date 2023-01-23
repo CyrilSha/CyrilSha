@@ -82,12 +82,12 @@ Definitely, this GitHub page isn't just security related. You can find some fron
 <p align="center">
   <!-- Monospace Font -->
   <samp>
-    <a href="https://www.linkedin.com/in/laptudirm/">linkedin</a> .
-    <a href="https://www.linkedin.com/in/laptudirm/">tryhackme</a> .
-    <a href="https://www.linkedin.com/in/laptudirm/">hackthebox</a> .
-    <a href="https://www.linkedin.com/in/laptudirm/">hackerone</a> .
-    <a href="https://www.linkedin.com/in/laptudirm/">bugcrowd</a> .
-    <a href="https://www.linkedin.com/in/laptudirm/">twitter</a> .
-    <a href="https://www.linkedin.com/in/laptudirm/">reddit</a>
+    <a href="https://google.com">linkedin</a> .
+    <a href="https://google.com">tryhackme</a> .
+    <a href="https://google.com">hackthebox</a> .
+    <a href="https://google.com">hackerone</a> .
+    <a href="https://google.com">bugcrowd</a> .
+    <a href="https://google.com">twitter</a> .
+    <a href="https://google.com">reddit</a>
   </samp>
 </p>
