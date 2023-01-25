@@ -19,7 +19,7 @@ I'm an Information Security Specialist with 10 years of experience in making web
     Security tool written in Python which allows to discover Actuator Spring Boot endpoints.
 </details>   
 
-<details>
+<!-- <details>
   <summary> 1: {Placeholder} </summary>
     {Placeholder}
 </details>   
@@ -63,7 +63,7 @@ I'm an Information Security Specialist with 10 years of experience in making web
   <summary> 9: {Placeholder} </summary>
     {Placeholder}
 </details>  
-<br>
+<br> -->
 
 <p align="center">
 Definitely, this GitHub page isn't just security related. You can find some front-end stuff and game development projects here, since I'm really into rolling for initiative and hiking.
