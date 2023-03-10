@@ -1,20 +1,20 @@
 
 <!-- <img align="left" width="15%" height="15%" src="https://user-images.githubusercontent.com/15785609/212919947-9b699845-25aa-42b3-9420-33d8cd48c661.png"> -->
 
-###  <h4><p align="center">  Are you looking for a reliable information security engineer with a decade of experience? Look no further!</p></h4>
+<!--  ###  <h4><p align="center">  Are you looking for a reliable information security engineer with a decade of experience? Look no further!</p></h4>
 ##
 <p align="center">
 I specialize in making web products secure and successfully mitigated security risks in various projects.
 </p>
 <br>
-<br>
+<br> -->
 
 ## About me
 I'm an Information Security Specialist with 10 years of experience in making web products secure, and I enjoy writing security tools, integrating them into infrastructure, and scraping, parsing, and analyzing data. I have compiled a list of my top 10 projects that I would be delighted to share with you. Please take a look and see what I can do!
 <br>
 <br>
 </p>
-<details>
+<!-- <details>
   <summary> Actuator Discovery Tool </summary>
     Security tool written in Python which allows to discover Actuator Spring Boot endpoints.
 </details>   
@@ -63,7 +63,7 @@ I'm an Information Security Specialist with 10 years of experience in making web
   <summary> 9: {Placeholder} </summary>
     {Placeholder}
 </details>  
-<br> -->
+<br> --> 
 
 <p align="center">
 Definitely, this GitHub page isn't just security related. You can find some front-end stuff and game development projects here, since I'm really into rolling for initiative and hiking.
